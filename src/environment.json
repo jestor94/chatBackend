@@ -1,0 +1,6 @@
+{
+  "develop": false,
+  "deploy": {
+    "port": 3000
+  }
+}
